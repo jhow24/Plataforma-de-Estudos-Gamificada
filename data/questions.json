@@ -1,0 +1,1502 @@
+[
+  {
+    "materia": "Matemática",
+    "dificuldade": "Básico",
+    "pergunta": "Resolva: 3x - 5 = 10. Qual é o valor de x?",
+    "opcoes": [
+      "3",
+      "5",
+      "7",
+      "15"
+    ],
+    "resposta": 1,
+    "explicacao": "Somando 5 aos dois lados, temos 3x = 15. Dividindo por 3, x = 5.",
+    "nivel": 1,
+    "id": "L1-01"
+  },
+  {
+    "materia": "Matemática",
+    "dificuldade": "Intermediário",
+    "pergunta": "Quais são as raízes da equação x² - 5x + 6 = 0?",
+    "opcoes": [
+      "1 e 6",
+      "-2 e -3",
+      "2 e 3",
+      "-1 e 6"
+    ],
+    "resposta": 2,
+    "explicacao": "A expressão fatorada é (x - 2)(x - 3) = 0; portanto, as raízes são 2 e 3.",
+    "nivel": 1,
+    "id": "L1-02"
+  },
+  {
+    "materia": "Matemática",
+    "dificuldade": "Básico",
+    "pergunta": "Uma moeda honesta é lançada uma vez. Qual é a probabilidade de sair cara?",
+    "opcoes": [
+      "1/4",
+      "1/3",
+      "1/2",
+      "1"
+    ],
+    "resposta": 2,
+    "explicacao": "Há dois resultados igualmente prováveis: cara e coroa. A probabilidade de cara é 1 em 2, ou 1/2.",
+    "nivel": 1,
+    "id": "L1-03"
+  },
+  {
+    "materia": "Biologia",
+    "dificuldade": "Básico",
+    "pergunta": "Qual organela está diretamente associada à produção de ATP na respiração celular aeróbica?",
+    "opcoes": [
+      "Ribossomo",
+      "Mitocôndria",
+      "Lisossomo",
+      "Complexo golgiense"
+    ],
+    "resposta": 1,
+    "explicacao": "A mitocôndria é o principal local da respiração celular aeróbica e da produção de ATP nas células eucarióticas.",
+    "nivel": 1,
+    "id": "L1-04"
+  },
+  {
+    "materia": "Biologia",
+    "dificuldade": "Intermediário",
+    "pergunta": "Na meiose, o número de cromossomos das células resultantes, em comparação com a célula inicial, geralmente fica...",
+    "opcoes": [
+      "igual",
+      "duplicado",
+      "reduzido à metade",
+      "reduzido a um quarto"
+    ],
+    "resposta": 2,
+    "explicacao": "A meiose inclui duas divisões celulares e reduz à metade o número de cromossomos, formando células haploides.",
+    "nivel": 1,
+    "id": "L1-05"
+  },
+  {
+    "materia": "Biologia",
+    "dificuldade": "Intermediário",
+    "pergunta": "Em uma população, indivíduos com uma característica hereditária vantajosa deixam, em média, mais descendentes. Esse processo é chamado de...",
+    "opcoes": [
+      "seleção natural",
+      "fermentação",
+      "sucessão ecológica",
+      "osmose"
+    ],
+    "resposta": 0,
+    "explicacao": "A seleção natural altera a frequência de características hereditárias ao longo das gerações por diferenças no sucesso reprodutivo.",
+    "nivel": 1,
+    "id": "L1-06"
+  },
+  {
+    "materia": "Química",
+    "dificuldade": "Básico",
+    "pergunta": "Qual é o número atômico do oxigênio?",
+    "opcoes": [
+      "6",
+      "8",
+      "16",
+      "18"
+    ],
+    "resposta": 1,
+    "explicacao": "O oxigênio possui número atômico 8, ou seja, oito prótons no núcleo.",
+    "nivel": 1,
+    "id": "L1-07"
+  },
+  {
+    "materia": "Química",
+    "dificuldade": "Básico",
+    "pergunta": "Uma solução aquosa com pH = 2 é classificada como...",
+    "opcoes": [
+      "ácida",
+      "neutra",
+      "básica",
+      "saturada"
+    ],
+    "resposta": 0,
+    "explicacao": "Em condições usuais, pH abaixo de 7 indica solução ácida; pH 7 é neutro e acima de 7 é básico.",
+    "nivel": 1,
+    "id": "L1-08"
+  },
+  {
+    "materia": "Química",
+    "dificuldade": "Básico",
+    "pergunta": "Qual fórmula representa a água?",
+    "opcoes": [
+      "CO₂",
+      "O₂",
+      "H₂O",
+      "NaCl"
+    ],
+    "resposta": 2,
+    "explicacao": "Cada molécula de água é formada por dois átomos de hidrogênio e um de oxigênio: H₂O.",
+    "nivel": 1,
+    "id": "L1-09"
+  },
+  {
+    "materia": "Física",
+    "dificuldade": "Básico",
+    "pergunta": "Um carro percorre 120 km em 2 horas, mantendo velocidade média constante. Qual é essa velocidade média?",
+    "opcoes": [
+      "30 km/h",
+      "60 km/h",
+      "120 km/h",
+      "240 km/h"
+    ],
+    "resposta": 1,
+    "explicacao": "Velocidade média = distância ÷ tempo = 120 km ÷ 2 h = 60 km/h.",
+    "nivel": 1,
+    "id": "L1-10"
+  },
+  {
+    "materia": "Física",
+    "dificuldade": "Intermediário",
+    "pergunta": "Um resistor de 4 Ω é ligado a uma tensão de 12 V. Pela Lei de Ohm, qual corrente passa por ele?",
+    "opcoes": [
+      "0,33 A",
+      "3 A",
+      "8 A",
+      "48 A"
+    ],
+    "resposta": 1,
+    "explicacao": "Pela Lei de Ohm, I = V/R. Logo, I = 12/4 = 3 ampères.",
+    "nivel": 1,
+    "id": "L1-11"
+  },
+  {
+    "materia": "Física",
+    "dificuldade": "Intermediário",
+    "pergunta": "Ao empurrar uma parede, você exerce uma força sobre ela. Pela terceira lei de Newton, a parede...",
+    "opcoes": [
+      "não exerce força de volta",
+      "exerce força de mesma intensidade e sentido oposto sobre você",
+      "exerce força menor apenas se se mover",
+      "exerce força no mesmo sentido"
+    ],
+    "resposta": 1,
+    "explicacao": "Ação e reação têm mesma intensidade e sentidos opostos, atuam simultaneamente e em corpos diferentes.",
+    "nivel": 1,
+    "id": "L1-12"
+  },
+  {
+    "materia": "História",
+    "dificuldade": "Básico",
+    "pergunta": "Em qual país teve início a Revolução Industrial do século XVIII?",
+    "opcoes": [
+      "França",
+      "Portugal",
+      "Grã-Bretanha",
+      "Brasil"
+    ],
+    "resposta": 2,
+    "explicacao": "A primeira Revolução Industrial começou na Grã-Bretanha, em meio a transformações técnicas, econômicas e sociais.",
+    "nivel": 1,
+    "id": "L1-13"
+  },
+  {
+    "materia": "História",
+    "dificuldade": "Básico",
+    "pergunta": "Em que ano foi proclamada a Independência do Brasil?",
+    "opcoes": [
+      "1500",
+      "1789",
+      "1822",
+      "1889"
+    ],
+    "resposta": 2,
+    "explicacao": "A Independência do Brasil foi proclamada em 1822; a separação política foi consolidada em um processo histórico mais amplo.",
+    "nivel": 1,
+    "id": "L1-14"
+  },
+  {
+    "materia": "Geografia",
+    "dificuldade": "Intermediário",
+    "pergunta": "Em um mapa na escala 1:100.000, uma distância de 2 cm representa, na realidade...",
+    "opcoes": [
+      "200 m",
+      "2 km",
+      "20 km",
+      "200 km"
+    ],
+    "resposta": 1,
+    "explicacao": "Na escala 1:100.000, cada centímetro no mapa equivale a 100.000 cm no terreno, isto é, 1 km. Dois centímetros representam 2 km.",
+    "nivel": 1,
+    "id": "L1-15"
+  },
+  {
+    "materia": "Geografia",
+    "dificuldade": "Básico",
+    "pergunta": "Qual bioma brasileiro é característico de áreas semiáridas do Nordeste?",
+    "opcoes": [
+      "Pampa",
+      "Pantanal",
+      "Caatinga",
+      "Mata de Araucárias"
+    ],
+    "resposta": 2,
+    "explicacao": "A Caatinga é um bioma exclusivamente brasileiro, com espécies adaptadas a condições de semiárido.",
+    "nivel": 1,
+    "id": "L1-16"
+  },
+  {
+    "materia": "Língua Portuguesa",
+    "dificuldade": "Básico",
+    "pergunta": "Na frase “Ela respondeu calmamente”, a palavra “calmamente” é um...",
+    "opcoes": [
+      "substantivo",
+      "advérbio de modo",
+      "pronome pessoal",
+      "verbo"
+    ],
+    "resposta": 1,
+    "explicacao": "“Calmamente” modifica o verbo “respondeu” e indica o modo como a ação ocorreu; é um advérbio de modo.",
+    "nivel": 1,
+    "id": "L1-17"
+  },
+  {
+    "materia": "Língua Portuguesa",
+    "dificuldade": "Intermediário",
+    "pergunta": "Na expressão “A cidade acordou cedo”, atribuir à cidade uma ação humana é exemplo de...",
+    "opcoes": [
+      "personificação",
+      "hipérbole",
+      "onomatopeia",
+      "eufemismo"
+    ],
+    "resposta": 0,
+    "explicacao": "A personificação (ou prosopopeia) atribui ações, sentimentos ou características humanas a seres não humanos.",
+    "nivel": 1,
+    "id": "L1-18"
+  },
+  {
+    "materia": "Inglês",
+    "dificuldade": "Intermediário",
+    "pergunta": "Complete: “She ___ in São Paulo for three years.” (Ela mora em São Paulo há três anos e ainda mora lá.)",
+    "opcoes": [
+      "lives",
+      "has lived",
+      "is live",
+      "lived yesterday"
+    ],
+    "resposta": 1,
+    "explicacao": "O present perfect (has lived) pode expressar uma situação que começou no passado e continua no presente.",
+    "nivel": 1,
+    "id": "L1-19"
+  },
+  {
+    "materia": "Inglês",
+    "dificuldade": "Intermediário",
+    "pergunta": "Complete: “We ___ when the phone rang.” (Nós estávamos estudando quando o telefone tocou.)",
+    "opcoes": [
+      "study",
+      "are studying",
+      "were studying",
+      "has studied"
+    ],
+    "resposta": 2,
+    "explicacao": "O past continuous (were studying) descreve uma ação em andamento interrompida por outra ação no passado.",
+    "nivel": 1,
+    "id": "L1-20"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Matemática",
+    "pergunta": "Uma sequência aritmética começa com 5 e tem razão 4. Qual é o seu 12º termo?",
+    "opcoes": [
+      "41",
+      "45",
+      "49",
+      "53"
+    ],
+    "resposta": 2,
+    "explicacao": "Em uma progressão aritmética, aₙ = a₁ + (n − 1)r. Assim, a₁₂ = 5 + 11 × 4 = 49.",
+    "id": "L2-01"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Matemática",
+    "pergunta": "De quantas maneiras diferentes quatro livros distintos podem ser organizados em uma única prateleira, usando todos eles?",
+    "opcoes": [
+      "8",
+      "12",
+      "16",
+      "24"
+    ],
+    "resposta": 3,
+    "explicacao": "A primeira posição tem 4 opções, a segunda 3, a terceira 2 e a última 1. Portanto, 4 × 3 × 2 × 1 = 24 maneiras.",
+    "id": "L2-02"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Matemática",
+    "pergunta": "Um triângulo retângulo tem catetos medindo 6 cm e 8 cm. Qual é a medida da hipotenusa?",
+    "opcoes": [
+      "7 cm",
+      "9 cm",
+      "10 cm",
+      "14 cm"
+    ],
+    "resposta": 2,
+    "explicacao": "Pelo teorema de Pitágoras, h² = 6² + 8² = 36 + 64 = 100; logo, h = 10 cm.",
+    "id": "L2-03"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Biologia",
+    "pergunta": "Na expressão gênica, como se chama o processo em que uma sequência de DNA serve de molde para a produção de RNA?",
+    "opcoes": [
+      "Tradução",
+      "Transcrição",
+      "Replicação",
+      "Fecundação"
+    ],
+    "resposta": 1,
+    "explicacao": "Na transcrição, a informação de um trecho de DNA é copiada para uma molécula de RNA, geralmente RNA mensageiro.",
+    "id": "L2-04"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Biologia",
+    "pergunta": "Qual hormônio pancreático reduz a concentração de glicose no sangue ao favorecer sua entrada nas células e o armazenamento na forma de glicogênio?",
+    "opcoes": [
+      "Glucagon",
+      "Insulina",
+      "Adrenalina",
+      "Tiroxina"
+    ],
+    "resposta": 1,
+    "explicacao": "A insulina facilita a captação de glicose pelas células e estimula sua conversão em glicogênio, reduzindo a glicemia.",
+    "id": "L2-05"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Biologia",
+    "pergunta": "Em uma cadeia alimentar, a quantidade de energia disponível geralmente diminui nos níveis tróficos mais altos porque...",
+    "opcoes": [
+      "parte da energia é dissipada como calor no metabolismo",
+      "os produtores deixam de realizar fotossíntese após serem consumidos",
+      "a energia é criada novamente a cada transferência entre organismos",
+      "os consumidores não realizam nenhuma atividade metabólica"
+    ],
+    "resposta": 0,
+    "explicacao": "Em cada nível trófico, parte da energia é usada no metabolismo e liberada como calor; apenas uma fração passa ao nível seguinte.",
+    "id": "L2-06"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Química",
+    "pergunta": "Ao balancear a equação da combustão completa do propano, C₃H₈ + O₂ → CO₂ + H₂O, qual é o coeficiente estequiométrico do O₂ na menor proporção inteira?",
+    "opcoes": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "resposta": 3,
+    "explicacao": "O balanceamento fornece C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O; portanto, o coeficiente do O₂ é 5.",
+    "id": "L2-07"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Química",
+    "pergunta": "Qual afirmação descreve corretamente um composto iônico?",
+    "opcoes": [
+      "É formado apenas por moléculas apolares e tem baixo ponto de fusão.",
+      "Geralmente é um sólido cristalino, tem alto ponto de fusão e conduz eletricidade quando fundido ou em solução aquosa.",
+      "Conduz eletricidade principalmente no estado sólido, sem movimento de íons.",
+      "É sempre um gás à temperatura ambiente e não possui atração entre suas partículas."
+    ],
+    "resposta": 1,
+    "explicacao": "Íons organizados em retículos cristalinos mantêm os sólidos iônicos unidos; quando fundidos ou dissolvidos, podem se mover e conduzir corrente.",
+    "id": "L2-08"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Química",
+    "pergunta": "A adição de um catalisador a uma reação química...",
+    "opcoes": [
+      "aumenta a energia de ativação da reação",
+      "diminui a energia de ativação e acelera a reação, sem ser consumido",
+      "altera necessariamente a variação de entalpia e a composição de equilíbrio",
+      "transforma os reagentes em produtos diferentes dos previstos pela equação"
+    ],
+    "resposta": 1,
+    "explicacao": "O catalisador oferece um caminho reacional de menor energia de ativação, aumentando a velocidade sem ser consumido nem alterar a variação de entalpia.",
+    "id": "L2-09"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Física",
+    "pergunta": "Uma partícula de massa 2 kg move-se a 3 m/s. Qual é sua energia cinética?",
+    "opcoes": [
+      "3 J",
+      "6 J",
+      "9 J",
+      "18 J"
+    ],
+    "resposta": 2,
+    "explicacao": "A energia cinética é Eₖ = mv²/2. Logo, Eₖ = 2 × 3²/2 = 9 J.",
+    "id": "L2-10"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Física",
+    "pergunta": "Um objeto diante de um espelho plano forma uma imagem que é...",
+    "opcoes": [
+      "real, invertida e maior que o objeto",
+      "virtual, direita e de mesmo tamanho que o objeto",
+      "real, direita e menor que o objeto",
+      "virtual, invertida e maior que o objeto"
+    ],
+    "resposta": 1,
+    "explicacao": "O espelho plano produz uma imagem virtual, direita, do mesmo tamanho e à mesma distância atrás do espelho que o objeto está à frente.",
+    "id": "L2-11"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Física",
+    "pergunta": "Em um líquido em repouso, a pressão exercida pelo líquido aumenta com a profundidade principalmente porque...",
+    "opcoes": [
+      "a coluna de líquido acima do ponto tem maior peso",
+      "a temperatura do líquido sempre aumenta com a profundidade",
+      "o volume do recipiente aumenta abaixo do ponto considerado",
+      "as moléculas do líquido deixam de se mover nas regiões profundas"
+    ],
+    "resposta": 0,
+    "explicacao": "A pressão hidrostática depende de p = ρgh; quanto maior a profundidade h, maior o peso da coluna de líquido acima do ponto.",
+    "id": "L2-12"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "História",
+    "pergunta": "Um princípio associado à Declaração dos Direitos do Homem e do Cidadão, de 1789, foi a defesa de...",
+    "opcoes": [
+      "igualdade jurídica e liberdades civis",
+      "manutenção dos privilégios estamentais",
+      "poder absoluto do monarca",
+      "retorno à servidão feudal"
+    ],
+    "resposta": 0,
+    "explicacao": "O documento da Revolução Francesa afirmava direitos e liberdades individuais e a igualdade dos cidadãos perante a lei.",
+    "id": "L2-13"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "História",
+    "pergunta": "O Estado Novo, implantado por Getúlio Vargas em 1937, caracterizou-se por...",
+    "opcoes": [
+      "federalismo descentralizado com eleições diretas regulares",
+      "centralização do poder, censura e restrição de liberdades políticas",
+      "restauração da monarquia parlamentar",
+      "ampla autonomia dos partidos e da imprensa"
+    ],
+    "resposta": 1,
+    "explicacao": "O Estado Novo foi uma ditadura marcada pela concentração de poder no Executivo, pelo controle da imprensa e pela repressão política.",
+    "id": "L2-14"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Geografia",
+    "pergunta": "A rápida urbanização brasileira na segunda metade do século XX esteve relacionada principalmente...",
+    "opcoes": [
+      "à industrialização e ao êxodo rural",
+      "à redução da oferta de empregos urbanos",
+      "à transferência massiva da população das cidades para o campo",
+      "ao fim das atividades industriais"
+    ],
+    "resposta": 0,
+    "explicacao": "A industrialização concentrou empregos e serviços nas cidades, atraindo população rural e intensificando o êxodo rural e a urbanização.",
+    "id": "L2-15"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Geografia",
+    "pergunta": "Durante uma inversão térmica, comum em áreas urbanas, a poluição tende a se concentrar próxima ao solo porque...",
+    "opcoes": [
+      "uma camada de ar mais quente acima impede a ascensão e a dispersão do ar frio",
+      "os ventos se tornam necessariamente mais fortes junto ao solo",
+      "a chuva deixa de remover qualquer poluente da atmosfera",
+      "a radiação solar passa a produzir poluentes diretamente no solo"
+    ],
+    "resposta": 0,
+    "explicacao": "Na inversão, o ar quente acima funciona como uma tampa sobre o ar frio próximo ao solo, dificultando a convecção e a dispersão dos poluentes.",
+    "id": "L2-16"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Língua Portuguesa",
+    "pergunta": "Na frase ‘A arquibancada vaiou o jogador’, o termo ‘arquibancada’ representa os torcedores. Essa substituição é um caso de...",
+    "opcoes": [
+      "metáfora",
+      "metonímia",
+      "antítese",
+      "hipérbole"
+    ],
+    "resposta": 1,
+    "explicacao": "Há metonímia porque se emprega o lugar, a arquibancada, para representar as pessoas que estão nele, os torcedores.",
+    "id": "L2-17"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Língua Portuguesa",
+    "pergunta": "Assinale a alternativa em que o uso da crase está correto:",
+    "opcoes": [
+      "Entreguei o relatório à professora.",
+      "Começou à chover cedo.",
+      "Voltaremos à pé.",
+      "Refiro-me à pessoas interessadas."
+    ],
+    "resposta": 0,
+    "explicacao": "Em ‘à professora’, ocorre a fusão da preposição a, exigida por ‘entregar’, com o artigo feminino a. Não há crase antes de verbo, de palavra masculina ou de plural indefinido.",
+    "id": "L2-18"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Inglês",
+    "pergunta": "Complete the sentence: ‘If I ___ more free time, I would learn another language.’",
+    "opcoes": [
+      "have",
+      "had",
+      "will have",
+      "have had"
+    ],
+    "resposta": 1,
+    "explicacao": "O second conditional usa o simple past na condição (had) e would mais verbo na oração principal para indicar uma hipótese no presente ou no futuro.",
+    "id": "L2-19"
+  },
+  {
+    "nivel": 2,
+    "dificuldade": "Intermediário",
+    "materia": "Inglês",
+    "pergunta": "Complete: ‘The new bridge ___ by engineers last year.’",
+    "opcoes": [
+      "designed",
+      "was designed",
+      "has design",
+      "is designing"
+    ],
+    "resposta": 1,
+    "explicacao": "A frase está na voz passiva do simple past: was, seguido do particípio passado designed, concordando com ‘the new bridge’.",
+    "id": "L2-20"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Matemática",
+    "pergunta": "Uma escola escolherá uma comissão de 3 estudantes entre Ana, Bia, Carlos, Davi, Elisa e Fábio. A comissão deve conter pelo menos uma entre Ana e Bia. Quantas comissões distintas são possíveis?",
+    "opcoes": [
+      "8",
+      "12",
+      "16",
+      "20"
+    ],
+    "resposta": 2,
+    "explicacao": "Há C(6,3) = 20 comissões ao todo. As que não contêm Ana nem Bia são C(4,3) = 4; portanto, 20 − 4 = 16 comissões atendem à condição.",
+    "id": "L3-01"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Matemática",
+    "pergunta": "Um investimento de R$ 1.000,00 rende juros compostos de 10% ao ano, sem depósitos ou retiradas. Qual será o valor ao fim de 2 anos?",
+    "opcoes": [
+      "R$ 1.100,00",
+      "R$ 1.200,00",
+      "R$ 1.210,00",
+      "R$ 1.220,00"
+    ],
+    "resposta": 2,
+    "explicacao": "Nos juros compostos, o rendimento de cada ano incide sobre o saldo anterior: 1.000 × 1,10² = 1.210. Assim, o montante é R$ 1.210,00.",
+    "id": "L3-02"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Biologia",
+    "pergunta": "Em uma espécie, o alelo A é dominante sobre a. No cruzamento Aa × Aa, qual é a probabilidade de um descendente apresentar o fenótipo recessivo?",
+    "opcoes": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "resposta": 0,
+    "explicacao": "O cruzamento produz, em média, AA, Aa, Aa e aa. Apenas aa expressa o fenótipo recessivo, correspondendo a 1/4, ou 25%.",
+    "id": "L3-03"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Biologia",
+    "pergunta": "Qual mecanismo explica principalmente a proteção duradoura obtida após uma vacina?",
+    "opcoes": [
+      "Produção de hemácias especializadas contra o agente infeccioso",
+      "Formação de células de memória do sistema imune adaptativo",
+      "Destruição imediata e inespecífica de todos os microrganismos pelo tecido muscular",
+      "Aumento permanente da temperatura corporal para impedir infecções"
+    ],
+    "resposta": 1,
+    "explicacao": "A vacinação apresenta antígenos de modo seguro e induz linfócitos de memória. Em um novo contato, essas células desencadeiam uma resposta mais rápida e intensa.",
+    "id": "L3-04"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Química",
+    "pergunta": "Na reação balanceada 2 H₂ + O₂ → 2 H₂O, uma mistura contém 4 mol de H₂ e 1 mol de O₂. Quantos mol de H₂O podem ser formados, considerando a reação completa?",
+    "opcoes": [
+      "1 mol",
+      "2 mol",
+      "3 mol",
+      "4 mol"
+    ],
+    "resposta": 1,
+    "explicacao": "Cada 1 mol de O₂ reage com 2 mol de H₂ e produz 2 mol de H₂O. Como há O₂ suficiente para consumir apenas 2 dos 4 mol de H₂, o O₂ é o reagente limitante e formam-se 2 mol de água.",
+    "id": "L3-05"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Química",
+    "pergunta": "Na reação Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s), qual afirmação está correta?",
+    "opcoes": [
+      "O zinco é reduzido e atua como agente oxidante.",
+      "O íon Cu²⁺ é oxidado e atua como agente redutor.",
+      "O zinco é oxidado e atua como agente redutor.",
+      "O íon sulfato é reduzido e atua como agente oxidante."
+    ],
+    "resposta": 2,
+    "explicacao": "O Zn perde elétrons e passa a Zn²⁺, portanto sofre oxidação. Ao ceder elétrons ao Cu²⁺, ele provoca a redução desse íon e funciona como agente redutor.",
+    "id": "L3-06"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Química",
+    "pergunta": "O etanol (C₂H₅OH) e o dimetil éter (CH₃OCH₃) têm a mesma fórmula molecular, C₂H₆O, mas diferentes ligações entre os átomos. Essa relação é denominada...",
+    "opcoes": [
+      "isotopia",
+      "alotropia",
+      "isomeria de função",
+      "mistura homogênea"
+    ],
+    "resposta": 2,
+    "explicacao": "Substâncias com a mesma fórmula molecular e diferentes formas de conectar os átomos são isômeros. Como pertencem a funções orgânicas diferentes, são isômeros de função.",
+    "id": "L3-07"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Física",
+    "pergunta": "Um objeto de 2 kg parte do repouso do alto de uma altura de 5 m. Desprezando a resistência do ar e usando g = 10 m/s², qual é sua velocidade imediatamente antes de tocar o solo?",
+    "opcoes": [
+      "5 m/s",
+      "10 m/s",
+      "√50 m/s",
+      "20 m/s"
+    ],
+    "resposta": 1,
+    "explicacao": "A energia potencial gravitacional transforma-se em cinética: mgh = mv²/2. Cancelando a massa, v² = 2 × 10 × 5 = 100, logo v = 10 m/s.",
+    "id": "L3-08"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Física",
+    "pergunta": "Durante a ebulição de um líquido puro, sob pressão constante, o líquido continua recebendo calor. O que ocorre nesse intervalo?",
+    "opcoes": [
+      "A temperatura diminui porque as partículas deixam de se mover.",
+      "A temperatura permanece constante, e o calor é usado principalmente na mudança de fase.",
+      "A massa do líquido aumenta, pois o calor cria matéria.",
+      "A temperatura aumenta indefinidamente enquanto parte do líquido vaporiza."
+    ],
+    "resposta": 1,
+    "explicacao": "Na ebulição, a energia fornecida é o calor latente: ela vence interações entre partículas e promove a vaporização, sem elevar a temperatura enquanto a pressão permanece constante.",
+    "id": "L3-09"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Física",
+    "pergunta": "Um feixe luminoso incide obliquamente do ar sobre uma placa de vidro. Ao entrar no vidro, qual conjunto de mudanças é esperado?",
+    "opcoes": [
+      "A velocidade aumenta, o raio se afasta da normal e a frequência muda.",
+      "A velocidade diminui, o raio se aproxima da normal e a frequência permanece constante.",
+      "A velocidade permanece igual, o raio se aproxima da normal e a frequência diminui.",
+      "A velocidade diminui, o raio se afasta da normal e a frequência aumenta."
+    ],
+    "resposta": 1,
+    "explicacao": "O vidro tem maior índice de refração que o ar: a velocidade e o comprimento de onda diminuem, a frequência não muda e, na entrada oblíqua, o raio se aproxima da normal.",
+    "id": "L3-10"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "História",
+    "pergunta": "Na Primeira República brasileira, o coronelismo esteve associado principalmente a...",
+    "opcoes": [
+      "um poder local de grandes proprietários, baseado em relações de dependência e controle eleitoral",
+      "uma participação política universal e independente da condição econômica",
+      "uma administração centralizada por sindicatos urbanos de trabalhadores",
+      "uma política de industrialização conduzida exclusivamente pelo governo federal"
+    ],
+    "resposta": 0,
+    "explicacao": "O coronelismo envolvia a influência de chefes locais, geralmente grandes proprietários, que controlavam votos por meio de clientelismo, favores e relações de dependência.",
+    "id": "L3-11"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "História",
+    "pergunta": "A crise política que antecedeu o movimento de 1930 no Brasil relacionou-se, entre outros fatores, à...",
+    "opcoes": [
+      "ruptura da alternância entre elites estaduais e contestação à candidatura de Júlio Prestes, apoiada por Washington Luís",
+      "abolição da escravidão, decretada naquele ano",
+      "renúncia de Dom Pedro II à presidência da República",
+      "criação da Organização das Nações Unidas"
+    ],
+    "resposta": 0,
+    "explicacao": "A indicação de Júlio Prestes por Washington Luís rompeu acordos entre oligarquias estaduais; a Aliança Liberal contestou o resultado eleitoral, em um contexto de crise econômica e política.",
+    "id": "L3-12"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "História",
+    "pergunta": "O principal objetivo do Plano Marshall, lançado pelos Estados Unidos após a Segunda Guerra Mundial, foi...",
+    "opcoes": [
+      "impor reparações econômicas aos países europeus derrotados",
+      "financiar a reconstrução da Europa Ocidental e conter a expansão da influência soviética",
+      "criar a Organização das Nações Unidas em substituição à Liga das Nações",
+      "encerrar imediatamente os processos de descolonização na Ásia e na África"
+    ],
+    "resposta": 1,
+    "explicacao": "O plano forneceu ajuda econômica para reconstruir países europeus ocidentais. Além da recuperação, buscava fortalecer esses governos contra a expansão política do bloco soviético.",
+    "id": "L3-13"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Geografia",
+    "pergunta": "Uma área central de uma cidade, com muito asfalto e concreto, pouca vegetação e temperaturas superiores às do entorno rural, exemplifica qual fenômeno e qual causa?",
+    "opcoes": [
+      "Ilha de calor urbana, intensificada pela retenção de calor e pela menor evapotranspiração",
+      "Inversão térmica, causada exclusivamente pelo aumento da umidade do solo",
+      "Chuva ácida, provocada diretamente pela ausência de árvores",
+      "Intemperismo químico, provocado pelo excesso de superfícies impermeáveis"
+    ],
+    "resposta": 0,
+    "explicacao": "Materiais urbanos absorvem e liberam calor, enquanto a pouca vegetação reduz a evapotranspiração. Isso eleva a temperatura local e produz a ilha de calor urbana.",
+    "id": "L3-14"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Geografia",
+    "pergunta": "O fenômeno El Niño está associado principalmente a...",
+    "opcoes": [
+      "um resfriamento anormal das águas superficiais do Pacífico equatorial, sem efeitos atmosféricos",
+      "um aquecimento anormal das águas superficiais do Pacífico equatorial, que altera a circulação atmosférica e as chuvas",
+      "um aquecimento permanente de todos os oceanos causado apenas pelo movimento das marés",
+      "uma redução da radiação solar que atinge a Terra durante o inverno europeu"
+    ],
+    "resposta": 1,
+    "explicacao": "No El Niño, o Pacífico equatorial central e leste fica anormalmente aquecido. Essa mudança interfere na circulação atmosférica e desloca padrões de chuva e temperatura em várias regiões.",
+    "id": "L3-15"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Geografia",
+    "pergunta": "Em um mapa-múndi elaborado na projeção de Mercator, áreas próximas aos polos aparecem muito ampliadas. Essa distorção ocorre porque a projeção...",
+    "opcoes": [
+      "aumenta a distorção das áreas em direção aos polos, embora preserve ângulos locais",
+      "representa fielmente as áreas e apenas altera as cores dos continentes",
+      "reduz as distâncias equatoriais para compensar o tamanho real dos oceanos",
+      "foi construída exclusivamente para representar fenômenos climáticos"
+    ],
+    "resposta": 0,
+    "explicacao": "A projeção de Mercator é conforme, preservando ângulos e formas locais, mas amplia progressivamente as áreas em latitudes elevadas; por isso a Groenlândia parece desproporcionalmente grande.",
+    "id": "L3-16"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Língua Portuguesa",
+    "pergunta": "Em ‘Embora os dados fossem limitados, a equipe apresentou uma conclusão provisória’, a oração iniciada por ‘Embora’ expressa ideia de...",
+    "opcoes": [
+      "causa",
+      "condição",
+      "concessão",
+      "conclusão"
+    ],
+    "resposta": 2,
+    "explicacao": "‘Embora’ introduz uma oração concessiva: apresenta uma circunstância que poderia dificultar o fato principal, mas não o impede.",
+    "id": "L3-17"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Língua Portuguesa",
+    "pergunta": "Leia: ‘Ao terminar a leitura, os estudantes debateram o texto.’ A expressão inicial estabelece principalmente uma relação de...",
+    "opcoes": [
+      "tempo",
+      "causa",
+      "consequência",
+      "oposição"
+    ],
+    "resposta": 0,
+    "explicacao": "‘Ao terminar a leitura’ indica quando ocorreu o debate; a oração reduzida de infinitivo tem valor temporal.",
+    "id": "L3-18"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Inglês",
+    "pergunta": "Complete the sentence: ‘If I ___ about the delay, I would have left earlier.’",
+    "opcoes": [
+      "knew",
+      "had known",
+      "have known",
+      "would know"
+    ],
+    "resposta": 1,
+    "explicacao": "A frase expressa uma condição irreal no passado, o third conditional. Sua estrutura usa if + past perfect: ‘If I had known...’, seguido de ‘would have left’.",
+    "id": "L3-19"
+  },
+  {
+    "nivel": 3,
+    "dificuldade": "Intermediário/Avançado",
+    "materia": "Inglês",
+    "pergunta": "Read: ‘The road was flooded; nevertheless, the bus continued its route.’ The word ‘nevertheless’ signals...",
+    "opcoes": [
+      "cause",
+      "contrast or concession",
+      "addition",
+      "time sequence"
+    ],
+    "resposta": 1,
+    "explicacao": "‘Nevertheless’ significa ‘mesmo assim’ ou ‘contudo’. Ele introduz uma ideia de contraste ou concessão em relação à informação anterior.",
+    "id": "L3-20"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Matemática",
+    "pergunta": "Dois pontos A e B estão em margens opostas de um rio. A partir de um ponto C na margem de A, um topógrafo mede CA = 40 m, CB = 50 m e ângulo ACB = 60°. Supondo que essas medidas formem um triângulo, qual é a distância AB?",
+    "opcoes": [
+      "10√21 m",
+      "30√21 m",
+      "50 m",
+      "90 m"
+    ],
+    "resposta": 0,
+    "explicacao": "Pela lei dos cossenos, AB² = 40² + 50² − 2·40·50·cos 60° = 2100. Logo, AB = √2100 = 10√21 m.",
+    "id": "L4-01"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Matemática",
+    "pergunta": "Uma senha de seis algarismos distintos é formada usando os dígitos de 0 a 9. Ela deve começar por algarismo não nulo e conter exatamente dois algarismos pares. Quantas senhas diferentes podem ser formadas?",
+    "opcoes": [
+      "12.000",
+      "24.000",
+      "33.600",
+      "40.000"
+    ],
+    "resposta": 2,
+    "explicacao": "Se o primeiro algarismo for par não nulo, há 4·5·4·120 = 9.600 possibilidades. Se for ímpar, há 5·10·20·24 = 24.000. A soma é 33.600.",
+    "id": "L4-02"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Matemática",
+    "pergunta": "Um investimento evolui segundo C(t) = C₀(1,08)^t, com t em anos. Usando log(1,5)/log(1,08) ≈ 5,27, qual é o menor número inteiro de anos para que o capital atinja pelo menos 150% do valor inicial?",
+    "opcoes": [
+      "4 anos",
+      "5 anos",
+      "6 anos",
+      "7 anos"
+    ],
+    "resposta": 2,
+    "explicacao": "É preciso que (1,08)^t ≥ 1,5, portanto t ≥ log(1,5)/log(1,08) ≈ 5,27. O menor número inteiro que satisfaz a condição é 6.",
+    "id": "L4-03"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Biologia",
+    "pergunta": "Em uma amostra de DNA de dupla fita, 30% das bases nitrogenadas são citosinas. Qual porcentagem das bases é formada por adeninas?",
+    "opcoes": [
+      "10%",
+      "20%",
+      "30%",
+      "40%"
+    ],
+    "resposta": 1,
+    "explicacao": "No DNA de dupla fita, citosina e guanina aparecem em proporções iguais; adenina e timina também. Se C = 30%, G = 30%, restam 40% para A + T, ou 20% para A.",
+    "id": "L4-04"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Biologia",
+    "pergunta": "Qual evidência apoia a hipótese endossimbiótica para a origem das mitocôndrias?",
+    "opcoes": [
+      "Possuem DNA circular próprio e ribossomos, além de se dividirem de modo semelhante a bactérias.",
+      "São estruturas sem membrana, formadas apenas por proteínas do citoplasma.",
+      "Armazenam toda a informação genética da célula no interior de uma parede rígida.",
+      "Produzem clorofila e realizam fotossíntese em todas as células animais."
+    ],
+    "resposta": 0,
+    "explicacao": "Mitocôndrias têm DNA circular próprio, ribossomos e divisão por fissão, características compatíveis com a origem a partir de bactérias incorporadas por células ancestrais.",
+    "id": "L4-05"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Química",
+    "pergunta": "50,0 mL de uma solução de NaCl 2,0 mol/L são diluídos até o volume final de 250,0 mL. Qual é a concentração molar final?",
+    "opcoes": [
+      "0,10 mol/L",
+      "0,40 mol/L",
+      "2,50 mol/L",
+      "10,0 mol/L"
+    ],
+    "resposta": 1,
+    "explicacao": "Na diluição, a quantidade de soluto permanece constante: C₁V₁ = C₂V₂. Assim, C₂ = (2,0·50,0)/250,0 = 0,40 mol/L.",
+    "id": "L4-06"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Química",
+    "pergunta": "25,0 mL de H₂SO₄ 0,10 mol/L são neutralizados por NaOH 0,20 mol/L, segundo H₂SO₄ + 2 NaOH → Na₂SO₄ + 2 H₂O. Qual volume de NaOH é necessário?",
+    "opcoes": [
+      "12,5 mL",
+      "25,0 mL",
+      "50,0 mL",
+      "100,0 mL"
+    ],
+    "resposta": 1,
+    "explicacao": "Há 0,0250 L × 0,10 mol/L = 0,00250 mol de H₂SO₄. A proporção exige 0,00500 mol de NaOH; dividindo por 0,20 mol/L, o volume é 0,0250 L, ou 25,0 mL.",
+    "id": "L4-07"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Física",
+    "pergunta": "Qual quantidade de calor é necessária para aquecer 200 g de água de 20 °C para 40 °C? Considere o calor específico da água igual a 4,2 J/(g·°C) e despreze perdas.",
+    "opcoes": [
+      "1,68 kJ",
+      "8,4 kJ",
+      "16,8 kJ",
+      "84,0 kJ"
+    ],
+    "resposta": 2,
+    "explicacao": "Usando Q = mcΔT, Q = 200·4,2·20 = 16.800 J, ou 16,8 kJ.",
+    "id": "L4-08"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Física",
+    "pergunta": "Um objeto está a 60 cm de uma lente delgada convergente de distância focal 20 cm. Onde se forma a imagem e como ela é caracterizada?",
+    "opcoes": [
+      "A 15 cm, virtual, direita e ampliada.",
+      "A 30 cm, real, invertida e reduzida.",
+      "A 30 cm, virtual, direita e reduzida.",
+      "A 60 cm, real, invertida e do mesmo tamanho."
+    ],
+    "resposta": 1,
+    "explicacao": "Pela equação 1/f = 1/p + 1/q, 1/20 = 1/60 + 1/q, então q = 30 cm. Como o aumento é −q/p = −0,5, a imagem é real, invertida e reduzida.",
+    "id": "L4-09"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "História",
+    "pergunta": "A Lei Eusébio de Queirós, promulgada no Brasil em 1850, teve como principal efeito jurídico...",
+    "opcoes": [
+      "proibir o tráfico transatlântico de pessoas escravizadas para o Brasil",
+      "abolir imediatamente a escravidão em todo o território brasileiro",
+      "instituir o voto universal para pessoas libertas",
+      "declarar a independência política do Brasil"
+    ],
+    "resposta": 0,
+    "explicacao": "A lei de 1850 reprimiu o tráfico transatlântico de pessoas escravizadas para o Brasil; ela não aboliu a escravidão, que só terminou legalmente em 1888.",
+    "id": "L4-10"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "História",
+    "pergunta": "A edição do Ato Institucional nº 5, em 1968, durante a ditadura militar brasileira, representou...",
+    "opcoes": [
+      "a ampliação das liberdades políticas e o retorno das eleições diretas",
+      "o endurecimento autoritário, com medidas como fechamento do Congresso, cassações e suspensão de garantias políticas",
+      "o fim da censura prévia e a anistia imediata aos opositores",
+      "a restauração da Constituição democrática de 1946"
+    ],
+    "resposta": 1,
+    "explicacao": "O AI-5 ampliou os poderes do Executivo e intensificou a repressão, permitindo recesso do Congresso, cassação de mandatos e suspensão de garantias em casos políticos.",
+    "id": "L4-11"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "História",
+    "pergunta": "A Constituição brasileira de 1988 ficou conhecida como ‘Constituição Cidadã’ principalmente porque...",
+    "opcoes": [
+      "restabeleceu a monarquia constitucional e restringiu a participação popular",
+      "ampliou direitos sociais e garantias democráticas, fortalecendo o exercício da cidadania após o período autoritário",
+      "substituiu o federalismo por um governo central sem autonomia estadual",
+      "eliminou a proteção constitucional ao trabalho e à saúde"
+    ],
+    "resposta": 1,
+    "explicacao": "A Constituição de 1988 consolidou a redemocratização e incorporou direitos sociais, civis e políticos, ampliando as garantias de cidadania.",
+    "id": "L4-12"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Geografia",
+    "pergunta": "Em uma metrópole, empregos e serviços concentram-se nas áreas centrais, enquanto a população de baixa renda é empurrada para periferias distantes, gerando longos deslocamentos diários. Esse quadro expressa principalmente...",
+    "opcoes": [
+      "segregação socioespacial",
+      "conurbação",
+      "inversão térmica",
+      "transumância"
+    ],
+    "resposta": 0,
+    "explicacao": "A separação desigual de grupos sociais no espaço urbano, associada ao acesso desigual a empregos e serviços, caracteriza a segregação socioespacial.",
+    "id": "L4-13"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Geografia",
+    "pergunta": "Quando as áreas urbanizadas de dois municípios vizinhos crescem até formar uma mancha urbana contínua, ocorre...",
+    "opcoes": [
+      "conurbação",
+      "intemperismo",
+      "transumância",
+      "assoreamento"
+    ],
+    "resposta": 0,
+    "explicacao": "Conurbação é a união física das manchas urbanas de municípios vizinhos, resultado da expansão urbana; as fronteiras administrativas podem continuar existindo.",
+    "id": "L4-14"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Geografia",
+    "pergunta": "Em geral, no alto curso de um rio, onde a declividade é maior, predomina...",
+    "opcoes": [
+      "erosão vertical e aprofundamento do vale",
+      "deposição de sedimentos finos em planícies largas",
+      "formação exclusiva de deltas na foz",
+      "ausência de escoamento e de transporte de sedimentos"
+    ],
+    "resposta": 0,
+    "explicacao": "A maior declividade costuma conferir mais energia ao fluxo no alto curso, favorecendo a erosão vertical e o encaixamento do vale.",
+    "id": "L4-15"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Língua Portuguesa",
+    "pergunta": "Compare: I. ‘Os estudantes que participaram da olimpíada receberam certificado.’ II. ‘Os estudantes, que participaram da olimpíada, receberam certificado.’ Qual diferença de sentido decorre da pontuação?",
+    "opcoes": [
+      "Em I, a oração restringe o grupo aos participantes; em II, as vírgulas dão caráter explicativo e sugerem que todos participaram.",
+      "Em I, a oração expressa causa; em II, expressa condição.",
+      "A construção I é incorreta, pois ‘que’ não pode retomar pessoas.",
+      "As vírgulas alteram apenas o tempo verbal, sem mudar o sentido."
+    ],
+    "resposta": 0,
+    "explicacao": "Sem vírgulas, a oração adjetiva é restritiva e seleciona parte dos estudantes. Entre vírgulas, é explicativa e apresenta a participação como informação sobre o grupo inteiro.",
+    "id": "L4-16"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Língua Portuguesa",
+    "pergunta": "No período ‘A pesquisa foi concluída; contudo, os dados ainda não permitem uma conclusão definitiva’, o conectivo ‘contudo’ estabelece relação de...",
+    "opcoes": [
+      "contraste ou oposição",
+      "causa",
+      "conclusão",
+      "tempo"
+    ],
+    "resposta": 0,
+    "explicacao": "‘Contudo’ é uma conjunção adversativa: introduz uma informação que contrasta com a expectativa criada pela oração anterior.",
+    "id": "L4-17"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Língua Portuguesa",
+    "pergunta": "Complete conforme a regência do verbo: ‘Este é o tema ___ o autor se referiu.’",
+    "opcoes": [
+      "que",
+      "de que",
+      "a que",
+      "com que"
+    ],
+    "resposta": 2,
+    "explicacao": "O verbo pronominal ‘referir-se’ rege a preposição ‘a’; por isso, a forma adequada é ‘a que o autor se referiu’.",
+    "id": "L4-18"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Inglês",
+    "pergunta": "Leia: ‘Had the team followed the protocol, the error would have been avoided.’ A interpretação correta é...",
+    "opcoes": [
+      "A equipe seguiu o protocolo e evitou o erro.",
+      "A equipe não seguiu o protocolo; por isso, o erro não foi evitado.",
+      "A equipe seguirá o protocolo assim que o erro ocorrer.",
+      "A equipe é obrigada a seguir o protocolo neste momento."
+    ],
+    "resposta": 1,
+    "explicacao": "‘Had ... followed’ é a inversão de uma condição irreal no passado (third conditional), e ‘would have been avoided’ indica o resultado que não ocorreu.",
+    "id": "L4-19"
+  },
+  {
+    "nivel": 4,
+    "dificuldade": "Avançado",
+    "materia": "Inglês",
+    "pergunta": "Considerando que as ruas estão molhadas e o céu nublado, complete: ‘The streets are wet and the sky is cloudy; it ___ during the night.’",
+    "opcoes": [
+      "must have rained",
+      "must rain",
+      "has to raining",
+      "would rain"
+    ],
+    "resposta": 0,
+    "explicacao": "‘Must have’ + particípio passado expressa uma dedução forte sobre um evento passado: conclui-se que choveu durante a noite.",
+    "id": "L4-20"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Matemática",
+    "pergunta": "Uma escola escolherá, entre 8 estudantes finalistas, um presidente, um vice-presidente e um secretário, sem que ninguém ocupe mais de um cargo. Quantas equipes distintas podem ser formadas?",
+    "opcoes": [
+      "168",
+      "336",
+      "512",
+      "56"
+    ],
+    "resposta": 1,
+    "explicacao": "Há 8 escolhas para presidente, 7 para vice-presidente e 6 para secretário. Como os cargos são diferentes, multiplicamos: 8 × 7 × 6 = 336.",
+    "id": "L5-01"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Matemática",
+    "pergunta": "Qual é o resto da divisão de 2¹⁰⁰ por 7?",
+    "opcoes": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "resposta": 2,
+    "explicacao": "As potências de 2 deixam restos 2, 4 e 1, repetindo-se em ciclos de três. Como 100 deixa resto 1 na divisão por 3, o resto correspondente é 2.",
+    "id": "L5-02"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Matemática",
+    "pergunta": "Um terreno retangular tem perímetro de 40 m. Qual é a maior área possível para esse terreno?",
+    "opcoes": [
+      "80 m²",
+      "96 m²",
+      "100 m²",
+      "120 m²"
+    ],
+    "resposta": 2,
+    "explicacao": "Para um perímetro fixo, o retângulo de maior área é o quadrado. Cada lado mede 10 m, portanto a área máxima é 10 × 10 = 100 m².",
+    "id": "L5-03"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Biologia",
+    "pergunta": "Uma célula pancreática produz e exporta uma enzima proteica. Qual sequência representa melhor o trajeto da proteína desde sua síntese até sua secreção?",
+    "opcoes": [
+      "Ribossomos associados ao retículo endoplasmático rugoso → complexo golgiense → vesícula secretora",
+      "Ribossomos livres → lisossomo → núcleo",
+      "Núcleo → mitocôndria → cloroplasto",
+      "Complexo golgiense → retículo endoplasmático rugoso → lisossomo"
+    ],
+    "resposta": 0,
+    "explicacao": "Ribossomos ligados ao retículo endoplasmático rugoso sintetizam a proteína; o complexo golgiense a modifica e a organiza, e vesículas a levam para fora da célula.",
+    "id": "L5-04"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Biologia",
+    "pergunta": "Em uma cadeia alimentar formada por fitoplâncton → zooplâncton → peixe → águia-pescadora, um poluente persistente que não é facilmente eliminado pelo organismo tende a atingir sua maior concentração em qual nível?",
+    "opcoes": [
+      "Fitoplâncton",
+      "Zooplâncton",
+      "Peixe",
+      "Águia-pescadora"
+    ],
+    "resposta": 3,
+    "explicacao": "A biomagnificação aumenta a concentração de poluentes persistentes a cada nível trófico; por isso, o predador do topo tende a acumular a maior quantidade.",
+    "id": "L5-05"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Biologia",
+    "pergunta": "No sistema ABO, uma mãe tem genótipo Iᴬi e o pai tem genótipo Iᴮi. Desconsiderando outros fatores, qual é a probabilidade de um filho apresentar sangue tipo AB?",
+    "opcoes": [
+      "0%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "resposta": 1,
+    "explicacao": "A mãe pode fornecer Iᴬ ou i, e o pai pode fornecer Iᴮ ou i. Apenas a combinação IᴬIᴮ produz o tipo AB, em 1 de 4 combinações, ou 25%.",
+    "id": "L5-06"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Química",
+    "pergunta": "Para a reação N₂O₄(g) ⇌ 2 NO₂(g), uma mistura em equilíbrio tem [N₂O₄] = 0,20 mol/L e [NO₂] = 0,40 mol/L. Qual é o valor de Kc?",
+    "opcoes": [
+      "0,40",
+      "0,80",
+      "1,25",
+      "2,00"
+    ],
+    "resposta": 1,
+    "explicacao": "Kc = [NO₂]²/[N₂O₄] = (0,40)²/0,20 = 0,16/0,20 = 0,80.",
+    "id": "L5-07"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Química",
+    "pergunta": "Embora cada ligação C=O do CO₂ seja polar, por que a molécula inteira é apolar?",
+    "opcoes": [
+      "As ligações C=O não têm diferença de eletronegatividade.",
+      "A geometria linear e simétrica faz os dipolos das duas ligações se cancelarem.",
+      "O carbono não forma ligações covalentes com o oxigênio.",
+      "O CO₂ é um composto iônico formado por cargas sem movimento."
+    ],
+    "resposta": 1,
+    "explicacao": "No CO₂ linear, os dipolos das duas ligações C=O têm mesmo módulo e sentidos opostos; sua soma vetorial é zero, tornando a molécula apolar.",
+    "id": "L5-08"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Física",
+    "pergunta": "Um resistor de 6 Ω e outro de 3 Ω são ligados em paralelo a uma fonte de 12 V. Qual é a corrente elétrica total fornecida pela fonte?",
+    "opcoes": [
+      "2 A",
+      "3 A",
+      "6 A",
+      "9 A"
+    ],
+    "resposta": 2,
+    "explicacao": "A resistência equivalente em paralelo é 1/R = 1/6 + 1/3 = 1/2, portanto R = 2 Ω. Pela Lei de Ohm, a corrente total é I = 12/2 = 6 A.",
+    "id": "L5-09"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Física",
+    "pergunta": "Em um trilho horizontal, um carrinho de 2 kg move-se a 6 m/s e colide com outro de 4 kg, inicialmente em repouso. Se os carrinhos ficam unidos e as forças externas horizontais são desprezíveis, qual é a velocidade do conjunto após a colisão?",
+    "opcoes": [
+      "1 m/s",
+      "2 m/s",
+      "3 m/s",
+      "6 m/s"
+    ],
+    "resposta": 1,
+    "explicacao": "Conservando a quantidade de movimento: 2 × 6 + 4 × 0 = (2 + 4)v. Logo, 12 = 6v e v = 2 m/s.",
+    "id": "L5-10"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Física",
+    "pergunta": "Uma bola é lançada verticalmente para cima, desprezando a resistência do ar. No ponto mais alto da trajetória, qual afirmação está correta?",
+    "opcoes": [
+      "A velocidade e a aceleração são nulas.",
+      "A velocidade é nula, mas a aceleração aponta para baixo e tem módulo g.",
+      "A velocidade aponta para cima e a aceleração é nula.",
+      "A velocidade aponta para baixo e a aceleração aponta para cima."
+    ],
+    "resposta": 1,
+    "explicacao": "No instante mais alto, a velocidade se anula momentaneamente. A gravidade continua atuando, portanto a aceleração permanece vertical para baixo, com módulo g.",
+    "id": "L5-11"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "História",
+    "pergunta": "Qual característica explica por que a rivalidade entre Estados Unidos e União Soviética ficou conhecida como Guerra Fria?",
+    "opcoes": [
+      "Confronto militar direto e contínuo entre os exércitos das duas potências.",
+      "Rivalidade bipolar com corrida armamentista e conflitos indiretos, sem guerra direta entre as superpotências.",
+      "Disputa exclusivamente comercial, sem dimensões ideológicas ou militares.",
+      "Aliança permanente das duas potências contra movimentos de independência na Ásia."
+    ],
+    "resposta": 1,
+    "explicacao": "A Guerra Fria combinou disputa ideológica, alianças, corrida armamentista e guerras por procuração, mas evitou um confronto militar direto entre EUA e URSS.",
+    "id": "L5-12"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "História",
+    "pergunta": "A descolonização da Ásia e da África após a Segunda Guerra Mundial foi favorecida principalmente pela combinação de quais fatores?",
+    "opcoes": [
+      "Fortalecimento dos impérios europeus e recuo dos nacionalismos locais.",
+      "Enfraquecimento das potências europeias, crescimento dos movimentos nacionalistas e defesa do princípio de autodeterminação.",
+      "Expansão do absolutismo europeu e restauração do pacto colonial.",
+      "Desaparecimento das identidades nacionais e retorno ao feudalismo."
+    ],
+    "resposta": 1,
+    "explicacao": "A guerra enfraqueceu as metrópoles europeias, enquanto movimentos nacionalistas reivindicavam autonomia; o princípio de autodeterminação também dava legitimidade internacional às independências.",
+    "id": "L5-13"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Geografia",
+    "pergunta": "Uma cidade impermeabilizou várzeas, canalizou rios e removeu a vegetação das margens. Após chuvas intensas, as inundações se tornaram frequentes. Qual medida enfrenta mais diretamente as causas do problema?",
+    "opcoes": [
+      "Impermeabilizar novas áreas para conduzir a água mais rapidamente.",
+      "Canalizar todos os cursos d’água em galerias subterrâneas.",
+      "Proteger várzeas, recuperar matas ciliares, ampliar superfícies permeáveis e criar áreas de retenção de água.",
+      "Remover a vegetação restante das margens para facilitar a limpeza dos rios."
+    ],
+    "resposta": 2,
+    "explicacao": "Várzeas e vegetação ajudam a armazenar e infiltrar a água. Recuperá-las e aumentar a permeabilidade reduz o escoamento superficial e a sobrecarga dos rios.",
+    "id": "L5-14"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Geografia",
+    "pergunta": "Uma pirâmide etária apresenta base estreita e participação relativamente grande de adultos e idosos. Qual interpretação e consequência são mais coerentes?",
+    "opcoes": [
+      "População muito jovem; a prioridade será ampliar apenas o ensino fundamental.",
+      "Baixa fecundidade e envelhecimento populacional; crescerá a demanda por saúde e previdência.",
+      "Explosão recente de nascimentos; a população em idade ativa desaparecerá imediatamente.",
+      "Alta mortalidade na velhice; não haverá necessidade de políticas para idosos."
+    ],
+    "resposta": 1,
+    "explicacao": "A base estreita indica menos nascimentos, enquanto o topo relativamente largo indica maior longevidade e envelhecimento. Isso exige planejamento para saúde, cuidados e previdência.",
+    "id": "L5-15"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Língua Portuguesa",
+    "pergunta": "Leia: ‘A biblioteca digital ampliou o acesso a fontes, mas não eliminou a necessidade de verificar autoria, data e método.’ Qual interpretação sintetiza melhor a ideia central do período?",
+    "opcoes": [
+      "A digitalização torna qualquer fonte automaticamente confiável.",
+      "O acesso às fontes aumentou, mas a avaliação crítica continua necessária.",
+      "Somente livros impressos podem ser usados em pesquisas confiáveis.",
+      "Autoria, data e método são irrelevantes quando uma fonte está disponível on-line."
+    ],
+    "resposta": 1,
+    "explicacao": "A conjunção ‘mas’ introduz uma ressalva: a tecnologia facilita o acesso, porém não substitui a análise crítica da confiabilidade das fontes.",
+    "id": "L5-16"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Língua Portuguesa",
+    "pergunta": "Na frase ‘Faz três anos que o projeto começou’, por que o verbo ‘faz’ permanece no singular?",
+    "opcoes": [
+      "Porque concorda com ‘três anos’, que é uma expressão singular.",
+      "Porque concorda com ‘projeto’, que está no singular.",
+      "Porque ‘fazer’, indicando tempo decorrido, é impessoal e fica na terceira pessoa do singular.",
+      "Porque a frase está na voz passiva e não possui verbo principal."
+    ],
+    "resposta": 2,
+    "explicacao": "Quando indica tempo transcorrido, o verbo ‘fazer’ não tem sujeito e deve ser usado no singular: ‘faz três anos’, assim como ‘faz muito tempo’.",
+    "id": "L5-17"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Inglês",
+    "pergunta": "Na frase ‘The committee put off the meeting until Friday’, o phrasal verb ‘put off’ significa...",
+    "opcoes": [
+      "cancelar para sempre",
+      "adiar",
+      "comparecer a",
+      "anunciar"
+    ],
+    "resposta": 1,
+    "explicacao": "‘Put off’ significa adiar ou postergar. A reunião foi remarcada para sexta-feira.",
+    "id": "L5-18"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Inglês",
+    "pergunta": "Na frase ‘By the time the train arrived, we had already left’, qual evento aconteceu primeiro?",
+    "opcoes": [
+      "O trem chegou e depois nós saímos.",
+      "Nós saímos antes de o trem chegar.",
+      "Os dois eventos ocorreram exatamente ao mesmo tempo.",
+      "A frase não informa a ordem dos acontecimentos."
+    ],
+    "resposta": 1,
+    "explicacao": "‘Had already left’ está no past perfect, usado para indicar uma ação concluída antes de outra ação passada: saímos antes da chegada do trem.",
+    "id": "L5-19"
+  },
+  {
+    "nivel": 5,
+    "dificuldade": "Desafio",
+    "materia": "Inglês",
+    "pergunta": "Leia: ‘Although the app was designed to save time, many users spend extra minutes customizing it. Therefore, its efficiency depends less on its features than on how people use them.’ Qual conclusão o texto sustenta?",
+    "opcoes": [
+      "O aplicativo é necessariamente ineficiente para todos os usuários.",
+      "O comportamento dos usuários influencia a eficiência, portanto os recursos, sozinhos, não garantem economia de tempo.",
+      "Personalizar qualquer aplicativo sempre economiza tempo.",
+      "O aplicativo não possui nenhum recurso útil."
+    ],
+    "resposta": 1,
+    "explicacao": "‘Although’ estabelece contraste e ‘therefore’ introduz a conclusão: a maneira de usar o aplicativo pode ser tão importante quanto os recursos oferecidos.",
+    "id": "L5-20"
+  }
+]

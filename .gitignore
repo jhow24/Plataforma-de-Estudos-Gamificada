@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# GameMaker outputs and local IDE data
+build/
+output/
+*.yyz
+*.dSYM/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
