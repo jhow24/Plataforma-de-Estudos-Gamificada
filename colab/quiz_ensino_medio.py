@@ -14,7 +14,7 @@ from typing import Callable, Optional
 
 NIVEIS = ["Calouro", "Explorador", "Estrategista", "Mestre", "Lenda"]
 XP_PARA_AVANCAR = 300
-XP_POR_ACERTO = 100
+XP_POR_ACERTO = 30
 BONUS_COMBO = 25
 XP_PARTICIPACAO = 20
 LETRAS = "ABCD"
